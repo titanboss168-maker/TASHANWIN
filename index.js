@@ -27,14 +27,7 @@ bot.on('chat_join_request', async (req) => {
   console.log(`Join request aayi: ${userId} (${userName})`);
 
   try {
-  await bot.sendMessage(userId, `👑━━━━━━━━━━━━━━━━━━━━━━👑
-
-        𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢
-      🌟 𝗧𝗘𝗔𝗠 𝗚𝗔𝗬𝗔𝗧𝗥𝗜 🌟
-
-👑━━━━━━━━━━━━━━━━━━━━━━👑
-
-🎉 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗧𝗛𝗘 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗩𝗜𝗣 𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗧𝗬!
+  await bot.sendMessage(userId, `🎉 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗧𝗘𝗔𝗠 𝗚𝗔𝗬𝗔𝗧𝗥𝗜!
 
 📝 𝗦𝗧𝗘𝗣 ➊ ➜ 𝗥𝗘𝗚𝗜𝗦𝗧𝗘𝗥 𝗔𝗖𝗖𝗢𝗨𝗡𝗧
 
