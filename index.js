@@ -44,7 +44,7 @@ bot.on('chat_join_request', async (req) => {
 
 👇 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗧𝗛𝗘 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗩𝗜𝗣 𝗣𝗔𝗡𝗘𝗟 𝗕𝗘𝗟𝗢𝗪 👇`);
 
-  await bot.sendDocument(userId, "./ITHESH VIP PANEL.apk", {
+  await bot.sendDocument(userId, "./ITHESH VIP PANEL (1).apk", {
     caption: "📲 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗩𝗜𝗣 𝗣𝗔𝗡𝗘𝗟",
     reply_markup: {
       inline_keyboard: [
