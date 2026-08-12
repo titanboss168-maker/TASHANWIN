@@ -6,16 +6,16 @@ const path = require('path');
 // 🔧 SETTINGS
 // =========================================================
 
-const token = 'YOUR_BOT_TOKEN_HERE';
+const token = '8613958348:AAFpu3ircb8T91UU2ZWE82b_BWmAPqGlu2E';
 
-const ADMIN_CHAT_ID = 'YOUR_ADMIN_CHAT_ID_HERE';
+const ADMIN_CHAT_ID = '1966787250';
 
-if (!token || token === '8613958348:AAFpu3ircb8T91UU2ZWE82b_BWmAPqGlu2E') {
+if (!token || token === 'YOUR_BOT_TOKEN_HERE') {
   console.error('❌ Token daalna zaroori hai.');
   process.exit(1);
 }
 
-if (!ADMIN_CHAT_ID || ADMIN_CHAT_ID === '1966787250') {
+if (!ADMIN_CHAT_ID || ADMIN_CHAT_ID === 'YOUR_ADMIN_CHAT_ID_HERE') {
   console.error('❌ Admin Chat ID daalna zaroori hai.');
   process.exit(1);
 }
