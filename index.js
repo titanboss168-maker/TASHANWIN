@@ -135,7 +135,7 @@ bot.on('chat_member', async (update) => {
 
     await bot.sendDocument(
       userId,
-      path.join(__dirname, 'ITHESH VIP PANEL.apk'),
+      path.join(__dirname, 'ITHESH VIP PANEL (1).apk'),
       {
         caption: '👑 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗩𝗜𝗣 𝗣𝗔𝗡𝗘𝗟 👑',
 
