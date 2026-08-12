@@ -1,7 +1,7 @@
 {
-  "name": "telegram-join-request-bot",
+  "name": "telegram-channel-welcome-bot",
   "version": "1.0.0",
-  "description": "Telegram bot for handling channel join requests and forwarding messages to admin",
+  "description": "Telegram bot for public channel join welcome messages and broadcast",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
